@@ -1,0 +1,22 @@
+{
+    "manifest": {
+        "author": "cookieisepik",
+        "name": "Cookie",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/Cookieisepik\/Aliucord-theme\/main\/Untitled216_20240420195416.png"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/Cookieisepik\/Aliucord-theme\/raw\/main\/Anonymous_Pro.ttf"
+    },
+    "simple_colors": {
+        "accent": -7094298,
+        "background_secondary": -11824171,
+        "blocked_bg": -12620395,
+        "statusbar": -7094298
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
